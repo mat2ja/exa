@@ -6,7 +6,7 @@
 
 1. Clone the repository:
     ```zsh
-    git clone --depth=1 https://github.com/mat2ja/exa.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/exa
+    git clone --depth=1 https://github.com/mat2ja/exa.plugin.zsh.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/exa
     ```
 2. Include it in your `~/.zshrc`:
     ```zsh
