@@ -6,5 +6,5 @@ alias la="exa -lFaa --icons --group-directories-first --git"
 alias llg="exa -lFaa --icons --group-directories-first --git --grid"
 
 # Tree
-alias llt="exa -lFa --icons --group-directories-first --git --no-user --tree"
-alias lt="exa -T --icons --group-directories-first"
+alias llt="exa -lFa --icons --group-directories-first --git --no-user --tree --git-ignore"
+alias lt="exa -T --icons --group-directories-first --git-ignore"
